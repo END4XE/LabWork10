@@ -32,7 +32,7 @@ jobs:
 
       - name: Test Report 
         uses: dorny/test-reporter@v2
-        if: succes() || failure()
+        if: success() || failure()
         with: 
           name: Test results
           path: "**/*.trx"
