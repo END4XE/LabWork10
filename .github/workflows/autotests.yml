@@ -1,6 +1,7 @@
 name: .NET Regression Tests
 
 on:
+  workflow_dispath:
   push:
     branches: [ "master" ]
     paths:
