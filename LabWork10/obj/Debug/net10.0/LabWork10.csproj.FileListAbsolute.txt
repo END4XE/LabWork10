@@ -1,0 +1,11 @@
+C:\Users\221\students\ispp41\LabWork10\LabWork10\bin\Debug\net10.0\LabWork10.deps.json
+C:\Users\221\students\ispp41\LabWork10\LabWork10\bin\Debug\net10.0\LabWork10.dll
+C:\Users\221\students\ispp41\LabWork10\LabWork10\bin\Debug\net10.0\LabWork10.pdb
+C:\Users\221\students\ispp41\LabWork10\LabWork10\obj\Debug\net10.0\LabWork10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221\students\ispp41\LabWork10\LabWork10\obj\Debug\net10.0\LabWork10.AssemblyInfoInputs.cache
+C:\Users\221\students\ispp41\LabWork10\LabWork10\obj\Debug\net10.0\LabWork10.AssemblyInfo.cs
+C:\Users\221\students\ispp41\LabWork10\LabWork10\obj\Debug\net10.0\LabWork10.csproj.CoreCompileInputs.cache
+C:\Users\221\students\ispp41\LabWork10\LabWork10\obj\Debug\net10.0\LabWork10.dll
+C:\Users\221\students\ispp41\LabWork10\LabWork10\obj\Debug\net10.0\refint\LabWork10.dll
+C:\Users\221\students\ispp41\LabWork10\LabWork10\obj\Debug\net10.0\LabWork10.pdb
+C:\Users\221\students\ispp41\LabWork10\LabWork10\obj\Debug\net10.0\ref\LabWork10.dll
