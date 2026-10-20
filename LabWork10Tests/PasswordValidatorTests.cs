@@ -9,7 +9,7 @@ namespace LabWork10Tests
         [Theory]
         [InlineData("Password123")]
         [InlineData("a1234567")]
-        [InlineData("123456a")]
+        [InlineData("1234567a")]
         [InlineData("P@ssword1!")]
         [InlineData("VerylongPassword1234")]
         public void IsValid_ValidPassword_ReturnsTrue(string password)
